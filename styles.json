@@ -40,7 +40,7 @@
     },
     "AIPG": {
         "prompt": "{p}{np}",
-        "model": "wow420xl",
+        "model": "wowXL420",
         "steps": 22,
         "width": 1024,
         "height": 1024,
