@@ -21,7 +21,7 @@
     },
     "raw": {
         "prompt": "{p}{np}",
-        "model": "stable_diffusion"
+        "model": "wowXL420"
     },
     "raw2": {
         "prompt": "{p}{np}",
