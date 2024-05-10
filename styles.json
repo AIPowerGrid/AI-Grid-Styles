@@ -25,8 +25,7 @@
         "steps": 22,
         "width": 1024,
         "height": 1024,
-        "cfg_scale": 3,
-        "sampler_name": "k_dpmpp_sde"
+        "cfg_scale": 3
     },
     "raw2": {
         "prompt": "{p}{np}",
