@@ -22,10 +22,11 @@
     "raw": {
         "prompt": "{p}{np}",
         "model": "wowXL420",
-        "steps": 22,
+        "steps": 35,
         "width": 1024,
         "height": 1024,
-        "cfg_scale": 3
+        "cfg_scale": 4,
+        "sampler_name": "k_dpmpp_2m"
     },
     "raw2": {
         "prompt": "{p}{np}",
