@@ -21,7 +21,7 @@
     },
     "raw": {
         "prompt": "{p}{np}",
-        "model": "wowXL420"
+        "model": "wowXL420",
         "steps": 22,
         "width": 1024,
         "height": 1024,
