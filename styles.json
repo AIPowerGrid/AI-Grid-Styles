@@ -3363,5 +3363,35 @@
         "cfg_scale":7,
         "width":1024,
         "height":1024
+    },
+    "HiDream-I1-Dev": {
+        "prompt": "{p}",
+        "model": "HiDream-I1-Dev",
+        "steps": 4,
+        "width": 1024,
+        "height": 1024,
+        "cfg_scale": 1,
+        "karras": false,
+        "sampler_name": "k_euler"
+    },
+    "turbovision_xl": {
+        "prompt": "{p}{np}",
+        "model": "turbovision_xl",
+        "steps": 4,
+        "width": 1024,
+        "height": 1024,
+        "cfg_scale": 2,
+        "karras": true,
+        "sampler_name": "k_dpmpp_sde"
+    },
+    "Chroma-fp8-scaled": {
+        "prompt": "{p}{np}",
+        "model": "Chroma-fp8-scaled",
+        "steps": 4,
+        "width": 1024,
+        "height": 1024,
+        "cfg_scale": 1,
+        "karras": false,
+        "sampler_name": "k_euler"
     }
 }
